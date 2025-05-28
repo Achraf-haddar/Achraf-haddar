@@ -1,7 +1,7 @@
 
 # Hey 👋 I'm Achraf Haddar Software Engineer living in Germany
 
-I'm a 26-year-old tech enthusiast from Tunisia on a perpetual journey of exploration and learning. 
+I'm a 28-year-old tech enthusiast from Tunisia on a perpetual journey of exploration and learning. 
 I can confidently say I have ventured into a wide array of technologies in the tech world. With over 2 years of experience, I've developed a knack for transforming ideas into tangible solutions in the IT industry. I work diligently in high-pressure situations and adapt quickly to changes. 
 
 ## What's in My Arsenal:
